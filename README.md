@@ -11,3 +11,4 @@ Jonas visar hur GIT fungerar.
 $ git 
 commit -m "Här commitar vi"
 ```
+# ovning1
